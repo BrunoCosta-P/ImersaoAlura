@@ -24,3 +24,5 @@ if (operacao == 4){
 }else {
     document.write("<h2>opção invalida</h2>")
 }
+
+
